@@ -1,2 +1,14 @@
 theme: jekyll-theme-hacker
 title: CC11001100's blogs 
+
+
+# gitalk:
+#   clientID: xxx
+#   clientSecret: <你的clientSecret>
+#   repo: <你的repository名称>
+#   owner: <你的GitHub用户名>
+
+
+# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Used for Sitemap.xml and your RSS feed
+url: https://www.cc11001100.com/
