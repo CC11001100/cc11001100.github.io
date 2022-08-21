@@ -1,5 +1,5 @@
 #theme: jekyll-theme-hacker
-#title: CC11001100's blogs
+title: CC11001100's blogs
 
 # Name of your site (displayed in the header)
 name: "CC11001100's blogs"
@@ -60,12 +60,13 @@ footer-text: blog belong CC11001100, theme from https://github.com/lemonchann/le
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # fromendworld
 
+# 2022-8-22 02:27:08 似乎有一些安全性问题待确认，暂不开启
 # Gitalk
-gitalk:
-  clientID: d2f42731616eb0aa13d6
-  clientSecret: xxx
-  repo: cc11001100.github.io
-  owner: cc11001100
+#gitalk:
+#  clientID: d2f42731616eb0aa13d6
+#  clientSecret: xxx
+#  repo: cc11001100.github.io
+#  owner: cc11001100
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics:
